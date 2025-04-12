@@ -1,3 +1,5 @@
+rm -rf .git
+
 create a .env file based on the .example_env file included
 
 npx prisma migrate dev
